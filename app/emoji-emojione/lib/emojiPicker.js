@@ -6,14 +6,14 @@
  */
 
 export const emojiCategories = [
-	{ key: 'people', i18n: 'Smileys_and_People' },
-	{ key: 'nature', i18n: 'Animals_and_Nature' },
-	{ key: 'food', i18n: 'Food_and_Drink' },
-	{ key: 'activity', i18n: 'Activity' },
-	{ key: 'travel', i18n: 'Travel_and_Places' },
-	{ key: 'objects', i18n: 'Objects' },
-	{ key: 'symbols', i18n: 'Symbols' },
-	{ key: 'flags', i18n: 'Flags' },
+	// { key: 'people', i18n: 'Smileys_and_People' },
+	// { key: 'nature', i18n: 'Animals_and_Nature' },
+	// { key: 'food', i18n: 'Food_and_Drink' },
+	// { key: 'activity', i18n: 'Activity' },
+	// { key: 'travel', i18n: 'Travel_and_Places' },
+	// { key: 'objects', i18n: 'Objects' },
+	// { key: 'symbols', i18n: 'Symbols' },
+	// { key: 'flags', i18n: 'Flags' },
 ];
 
 export const toneList = {
